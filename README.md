@@ -1,4 +1,6 @@
 # kottans-frontend
+---
+# General Basics
 ## Git and GitHub
 Nice to advance my git skills
 
@@ -11,3 +13,8 @@ I've had some knoledge about HTTP before reading the articles but I didn't have 
 I've also got a better deeper understanding of connection handling and HTTP caching mechanisms. I've found out new different ways of identification (knew only Cookies before that) which I can use in the future.
 
 ## Git Collaboration
+![Completed Git Collaboration-1](/task_git_collaboration/git_collab_1.jpg)
+
+![Completed Git Collaboration-2](/task_git_collaboration/git_collab_2.jpg)
+
+The courses helped me learn git in details. I often had problems with resolving conflictes after the merge and resetting commits. Squashing commits is something I'll definetelly try in the future.
