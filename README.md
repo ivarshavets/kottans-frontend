@@ -1,5 +1,5 @@
 # kottans-frontend
----
+
 # General Basics
 ## Git and GitHub
 Nice to advance my git skills
@@ -18,3 +18,13 @@ I've also got a better deeper understanding of connection handling and HTTP cach
 ![Completed Git Collaboration-2](/task_git_collaboration/git_collab_2.jpg)
 
 The courses helped me learn git in details. I often had problems with resolving conflictes after the merge and resetting commits. Squashing commits is something I'll definetelly try in the future.
+
+---
+
+#Front-End Basics
+## Intro to HTML and CSS
+![Completed HTML&CSS Intro course screenshot](/task_html_css_intro/html_css_intro.jpg)
+
+![Completed HTML&CSS Basics course screenshot](/task_html_css_intro/html_css_basics.jpg)
+
+I work with html and css on a daily basis so nothing actually surprised me in the cources :)
