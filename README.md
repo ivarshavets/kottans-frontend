@@ -21,10 +21,18 @@ The courses helped me learn git in details. I often had problems with resolving 
 
 ---
 
-#Front-End Basics
+# Front-End Basics
 ## Intro to HTML and CSS
 ![Completed HTML&CSS Intro course screenshot](/task_html_css_intro/html_css_intro.jpg)
 
 ![Completed HTML&CSS Basics course screenshot](/task_html_css_intro/html_css_basics.jpg)
 
 I work with html and css on a daily basis so nothing actually surprised me in the cources :)
+
+## Responsive Web Design
+![Completed RWD screenshot](/task_responsive_web_design/rwd.jpg)
+
+![Completed RWD screenshot](/task_responsive_web_design/froggy.jpg)
+
+I didn't know about some responsive patterns.
+I've used flexbox before but somehow I've missed `flex-wrap: wrap-reverse` property. The last level was tricky :)
