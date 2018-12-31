@@ -36,3 +36,10 @@ I work with html and css on a daily basis so nothing actually surprised me in th
 
 I didn't know about some responsive patterns.
 I've used flexbox before but somehow I've missed `flex-wrap: wrap-reverse` property. The last level was tricky :)
+
+## JS Basics
+![Completed Udacity screenshot](/task_js_basics/js_basics_udacity.jpg)
+
+![Completed CodeCamp screenshot](/task_js_basics/codecamp.jpg)
+
+Udacity course was quite good in overview having some practice but codeCamp gave a good opportunity to put into practise JS knowledge. The exercises were pretty tricky at some point.
