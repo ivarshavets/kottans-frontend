@@ -45,3 +45,10 @@ I've used flexbox before but somehow I've missed `flex-wrap: wrap-reverse` prope
 ![Completed CodeCamp screenshot](/task_js_basics/codecamp.jpg)
 
 Udacity course was quite good in overview having some practice but codeCamp gave a good opportunity to put into practise JS knowledge. The exercises were pretty tricky at some point.
+
+## DOM
+![Completed Udacity screenshot](/task_js_dom/dom_udacity.jpg)
+
+![Completed CodeCamp screenshot](/task_js_dom/codecamp.jpg)
+
+I liked the Udacity course and I hope I've become a bit better in algorithms.
