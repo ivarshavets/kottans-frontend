@@ -2,6 +2,8 @@
 
 # General Basics
 ## Git and GitHub
+![Completed git basics screenshot](/task_git_basics/git.jpg)
+
 Nice to advance my git skills
 
 ## Linux CLI, and HTTP
