@@ -52,3 +52,5 @@ Udacity course was quite good in overview having some practice but codeCamp gave
 ![Completed CodeCamp screenshot](/task_js_dom/codecamp.jpg)
 
 I liked the Udacity course and I hope I've become a bit better in algorithms.
+
+[JS DOM task](https://github.com/ivarshavets/kottans-frontend-js-dom) Reviewed and approved by @zonzujiro
