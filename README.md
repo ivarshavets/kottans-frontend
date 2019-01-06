@@ -57,7 +57,7 @@ I liked the Udacity course and I hope I've become a bit better in algorithms.
 (PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/214)
 
 ## A Tiny JS World
-[Code base](https://github.com/ivarshavets/a-tiny-JS-world) - in review by @AMashoshyna
+[Code base](https://github.com/ivarshavets/a-tiny-JS-world) - Reviewed and approved by @AMashoshyna
 (PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/227)
 
 ## Object Oriented JS
