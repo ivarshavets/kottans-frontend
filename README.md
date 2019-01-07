@@ -56,6 +56,7 @@ I liked the Udacity course and I hope I've become a bit better in algorithms.
 [JS DOM task](https://github.com/ivarshavets/kottans-frontend-js-dom) Reviewed and approved by @zonzujiro
 (PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/214)
 
+# Advanced Topics
 ## A Tiny JS World
 [Code base](https://github.com/ivarshavets/a-tiny-JS-world) - Reviewed and approved by @AMashoshyna
 (PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/227)
@@ -70,3 +71,8 @@ The course clarified a lot of stuff from OOP for me.
 [Code base](https://github.com/ivarshavets/kottans-frontend/blob/master/frogger/js/app.js) - Reviewed and approved by @OleksiyRudenko
 
 (PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/241)
+
+## OOP Exercise
+[Code base](https://github.com/ivarshavets/a-tiny-JS-world) - Reviewed and approved by @OleksiyRudenko
+
+(PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/297)
