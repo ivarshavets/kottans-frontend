@@ -1,7 +1,7 @@
 const data = [
   {
-    id: 'broссoli',
-    image: 'images/broссoli.png',
+    id: 'broccoli',
+    image: 'images/broccoli.png',
   },
   {
     id: 'cherries',
