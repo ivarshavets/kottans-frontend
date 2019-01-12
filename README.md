@@ -54,12 +54,12 @@ Udacity course was quite good in overview having some practice but codeCamp gave
 I liked the Udacity course and I hope I've become a bit better in algorithms.
 
 [JS DOM task](https://github.com/ivarshavets/kottans-frontend-js-dom) Reviewed and approved by @zonzujiro
-(PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/214)
+([link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/214)
 
 # Advanced Topics
 ## A Tiny JS World
 [Code base](https://github.com/ivarshavets/a-tiny-JS-world) - Reviewed and approved by @AMashoshyna
-(PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/227)
+([link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/227)
 
 ## Object Oriented JS
 ![Completed Udacity course screenshot](/task_js_oop/udacity_oop.jpg)
@@ -70,16 +70,21 @@ The course clarified a lot of stuff from OOP for me.
 [Demo](https://ivarshavets.github.io/kottans-frontend/frogger/index.html) |
 [Code base](https://github.com/ivarshavets/kottans-frontend/blob/master/frogger/js/app.js) - Reviewed and approved by @OleksiyRudenko
 
-(PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/241)
+([link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/241)
 
 ## OOP Exercise
 [Code base](https://github.com/ivarshavets/a-tiny-JS-world) - Reviewed and approved by @OleksiyRudenko
 
-(PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/297)
+([link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/297)
 
 ## Memory Pair Game
-[Demo](https://ivarshavets.github.io/kottans-frontend/memory-pair-game/index.html)
-
+[Demo](https://ivarshavets.github.io/kottans-frontend/memory-pair-game/index.html) |
 [Code base](https://github.com/ivarshavets/a-tiny-JS-world) - Reviewed and approved by @A-Ostrovnyy
 
-(PR itself: [link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/307)
+([link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/307)
+
+## Friends App
+[Demo](https://ivarshavets.github.io/kottans-frontend/friends-app/index.html) |
+[Code base](https://github.com/ivarshavets/kottans-frontend/blob/master/friends-app) - waiting for review
+
+([link to PR)](https://github.com/kottans/frontend-2019-homeworks/pull/359)
